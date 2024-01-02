@@ -1,4 +1,4 @@
-# Extension mBlock pour le Capteur TCS3200
+# Extension mBlock pour le capteur TCS3200
 
 ## Description
 
