@@ -1,4 +1,5 @@
 # Extension mBlock pour le capteur TCS3200
+![enter image description here](https://github.com/Deadier/extension-tcs3200-mBlock5/blob/main/images/capteur-de-couleur-tcs3200.jpg)
 
 ## Description
 
@@ -21,6 +22,7 @@ Cette extension pour mBlock permet aux utilisateurs de facilement intégrer et u
 ## Utilisation
 
 Après l'installation, les nouveaux blocs seront disponibles dans la barre latérale de mBlock sous la catégorie "Capteur de couleur TCS3200". Glissez et déposez ces blocs dans votre espace de travail pour les utiliser dans vos projets.
+![enter image description here](https://github.com/Deadier/extension-tcs3200-mBlock5/blob/main/images/Capture_d_ecran.png)
 
 ## Support
 
